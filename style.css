@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+}
+.image{
+    height: 70px;
+    width: 190px;
+    margin-left: 30px;
+}
+
+.sign{
+    background-color: #21B573;
+    border: none;
+    color:white;
+    border-radius: 15px;
+    border-color: white;
+    padding: 5px 15px;
+}
+.nav-link{
+    color: black;
+    font-weight: 600;
+}
+.light-green{
+    background-color: rgb(240, 255, 240);
+}
+.question{
+    color: red;
+}
+.learn{
+    font-weight: 700;
+}
+span{
+    color:rgb(15, 116, 77);
+}
+.top-left{
+    padding: 15px 50px;
+}
+.text{
+    text-align: left;
+}
+.row img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-bottom: 10px;
+    
+}
+.categories{
+    margin-top: 50px;
+}
+.categories h4, p{
+    text-align: center;
+}
+.cat{
+    background-color:  #F0FFF0;;
+    height:270px;
+    padding-top: 40px;
+    border-radius: 5px;
+}
+
+.cat:hover{
+    background-color:white;
+    height: 300px;
+    box-shadow: 5px 5px 50px lightgray;
+}
+
+.online-heading{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.card img{
+    padding: 1rem;
+}
+.icon img{
+    width: 20%;
+}
+
+.card-text{
+    text-align: left;
+}
+.small{
+    margin-right: 55px;
+    margin-left: -50px;
+    font-size: 14px;
+}
+.shadow{
+    box-shadow: 5px 5px 30px lightgray;
+}
+.icon img{
+    margin-left: -10px;
+}
+
+.testimonial{
+    margin-top: 50px;
+}
+#heading{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.test img{
+    height: 150px;
+    width: 150px;
+}
+.test img{
+    float: left;
+    margin-left: 180px;
+    margin-right: 15px;
+}
+.test p{
+    margin-top: 50px;
+    text-align: left;   
+}
+.text-color{
+    color:white;
+    padding: 30px 15px;
+}
+.row li{
+    list-style: none;
+    text-align: left;
+}
+#footer-area{
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+}
+.bottom-part{
+    margin-top: 120px;
+}
+/*extra part*/
+.extra-part{
+    color:white;
+
+}
+.extra-part:hover{
+    color:white;
+    font-size: 25px;
+    background-color: red;
+    border-radius: 10px;
+    box-shadow: 5px 5px 40px lightgray;
+    padding: 5px 5px;
+}
+   
+
